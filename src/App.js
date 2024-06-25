@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Ipfs with fleek.
+          Ipfs with fleek..
         </a>
       </header>
     </div>
